@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mishirle.github.io/sitemap
+Sitemap: https://mishirle.github.io/app/sitemap
+Sitemap: https://mishirle.github.io/assets/sitemap
+Sitemap: https://mishirle.github.io/css/sitemap
+Sitemap: https://mishirle.github.io/includes/sitemap
+Sitemap: https://mishirle.github.io/item/sitemap
+Sitemap: https://mishirle.github.io/src/sitemap
